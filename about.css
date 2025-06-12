@@ -1,0 +1,8 @@
+
+/* about.css */
+.section h2, .section h3 {
+  color: #004080;
+}
+.section ul li::marker {
+  color: #004080;
+}
